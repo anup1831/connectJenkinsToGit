@@ -1,3 +1,4 @@
 [![Build Status](http://myjenkins:8080/buildStatus/icon?job=MergingPipeline)](http://myjenkins:8080/job/MergingPipeline/)
+#ConnectJenkinsToGit
 This is test file to chekc jenkins build process
 
