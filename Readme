@@ -1,2 +1,3 @@
-This is test file to chekc jenkins build process
 [![Build Status](http://myjenkins:8080/buildStatus/icon?job=MergingPipeline)](http://myjenkins:8080/job/MergingPipeline/)
+This is test file to chekc jenkins build process
+
